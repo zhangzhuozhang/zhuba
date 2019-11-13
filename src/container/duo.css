@@ -1,0 +1,79 @@
+.flex-container img{
+    width:40px;
+    height:40px;
+    margin:auto 0;
+}
+
+.num1{
+    width:54px;
+    height:54px;
+    background-color:#fc588b;
+    border-radius:50%;
+    text-align:center;
+}
+.num2{
+    width:54px;
+    height:54px;
+    background-color:#51cefe;
+    border-radius:50%;
+    text-align:center;
+}
+.num3{
+    width:54px;
+    height:54px;
+    background-color:#fda736;
+    border-radius:50%;
+    text-align:center;
+}
+.num4{
+    width:54px;
+    height:54px;
+    background-color:#57cfce;
+    border-radius:50%;
+    text-align:center;
+}
+.num5{
+    width:54px;
+    height:54px;
+    background-color:#fd403e;
+    border-radius:50%;
+    text-align:center;
+}
+.num6{
+    width:54px;
+    height:54px;
+    background-color:#5151f8;
+    border-radius:50%;
+    text-align:center;
+}
+.num7{
+    width:54px;
+    height:54px;
+    background-color:#ab15ff;
+    border-radius:50%;
+    text-align:center;
+}
+.num8{
+    width:54px;
+    height:54px;
+    background-color:#1ee073;
+    border-radius:50%;
+    text-align:center;
+}
+.num9{
+    width:54px;
+    height:54px;
+    background-color:#9189c1;
+    border-radius:50%;
+    text-align:center;
+}
+.num10{
+    width:54px;
+    height:54px;
+    background-color:#828187;
+    border-radius:50%;
+    text-align:center;
+}
+/* .hh{
+    height:30px;
+} */
